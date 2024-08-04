@@ -5,7 +5,6 @@ import java.util.List;
 
 import org.springframework.stereotype.Repository;
 
-import dio.web_api.handler.BusinessException;
 import dio.web_api.handler.CampoObrigatorioException;
 import dio.web_api.model.Usuario;
 
